@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const long long MOD = pow(10, 9) + 7;
+long long MOD = pow(10, 9) + 7;
 
 int main() {
     int t;
@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 /*
- * 和の中抜けを使う。
+ * 和の中抜け。
  * T1=1^2-0^2
  * T2=2^2-1^2
  * ...
