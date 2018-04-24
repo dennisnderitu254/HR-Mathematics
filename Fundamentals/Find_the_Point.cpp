@@ -8,10 +8,9 @@ int main() {
     int n;
     cin >> n;
 
+    int px, py, qx, qy;
     while (n--) {
-        int px, py, qx, qy;
         cin >> px >> py >> qx >> qy;
-
         int rx = 2 * qx - px;
         int ry = 2 * qy - py;
         cout << rx << " " << ry << endl;
