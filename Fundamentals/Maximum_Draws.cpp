@@ -1,15 +1,21 @@
+// https://www.hackerrank.com/challenges/maximum-draws/problem
+
 #include <bits/stdc++.h>
 
 using namespace std;
 
 int main() {
-    ios::sync_with_stdio(false);
     int t;
     cin >> t;
+
+    int n;
     while (t--) {
-        int n;
         cin >> n;
         cout << n + 1 << endl;
     }
     return 0;
 }
+
+/*
+ * (ŒC‰º‚ÌŽí—Þ)+1‚ª“š‚¦B
+ */
