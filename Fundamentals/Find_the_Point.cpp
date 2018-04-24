@@ -21,5 +21,5 @@ int main() {
 
 /*
  * qx=(px+rx)/2, qy=(py+ry)/2
- * Åà rx=2*qx-px, ry=2*qy-py
+ * ‚à¥ rx=2*qx-px, ry=2*qy-py
  */
